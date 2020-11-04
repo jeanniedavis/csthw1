@@ -75,6 +75,8 @@ Surf up and down along the east coast of the island until Missingno. appears.
                 <p class="text">
                    Players who reach Airman's room for the boss fight can try jumping back toward the boss gate using the floating platforms of Item-1. 
                    The glitch world you enter depends on how many enemies you have killed beforehand. <br>
+                 </p>
+
                     <ul class="facts">
                         <li> Kill a number of enemies anywhere in Koholint Island. </li>
                         <li> Go to Madam Meow Mow's House and go behind the kennel.</li>
@@ -85,20 +87,18 @@ Surf up and down along the east coast of the island until Missingno. appears.
                         A certain numbers of enemies killed causes Link to be in a glitch world and then immediately back in the overworld, or repeatedly falling down the hole due to the tiles. 
                         Tiles will behave normally if you killed exactly 1 enemy.)</li>
                      </ul>
-                   
-                </p>
-            </div>
+           </div>
             
          </main>
+        <footer>
+        <hr class="footer">
+        CST 336 Internet Programming. 2020&copy; Davis<br/>
+        <img src="img/csumblogo.png" alt="csumblogo"/>
+        </footer>
      </body>
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
-        <footer>
-            <hr class="footer">
-            CST 336 Internet Programming. 2020&copy; Davis<br/>
-            <img src="img/csumblogo.png" alt="csumblogo"/>
-
-        </footer>
+     
         <!-- closing footer -->
         
    

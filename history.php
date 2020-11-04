@@ -45,6 +45,7 @@ in html
                 which is known as one of the most famous video game series of all time. 
                 The NES was the most successful console of the 8-bit era, but there are a few other companies who released consoles and video games. 
                 Some of the rivals of the NES were the following:
+                </p>
                 <table>
                 <tr id="table-header">
                     <td><strong>Company/Console</strong></td>
@@ -62,42 +63,40 @@ in html
                     <td>Dig Dug (1986)</td>
                 </tr>
             </table>
-                </p>
+                
                 <p class="text">
                     In 1989 Nintendo released the Game Boy which was an 8-bit handheld console. The title of the games that came out during the North America launch were the following:
-                    <ul class="facts">
-                        <li> Alleyway </li>
-                        <li> Baseball</li>
-                        <li>Super Mario Land</li>
-                        <li>Tennis</li>
-                        <li>Tetris</li>
-                     </ul>
                 </p>
+                <ul class="facts">
+                    <li> Alleyway </li>
+                    <li> Baseball</li>
+                    <li>Super Mario Land</li>
+                    <li>Tennis</li>
+                    <li>Tetris</li>
+                 </ul>
                 <p class="text">
                     Some of the most famous games that were released for the Game Boy are the following:
-                      <ul class="facts">
-                        <li> Donkey Kong (1994) </li>
-                        <li> Pokemon (1998)</li>
-                        <li> Warrior Land (1994)</li>
-                        <li> Legend of Zelda: Link's Awakening (1993)</li>
-                        <li> The Final Fantasy Legend (1990)</li>
-                        <li> Kirby's Dream Land (1992)</li>
-                     </ul>
                 </p>
+                <ul class="facts">
+                    <li> Donkey Kong (1994) </li>
+                    <li> Pokemon (1998)</li>
+                    <li> Warrior Land (1994)</li>
+                    <li> Legend of Zelda: Link's Awakening (1993)</li>
+                    <li> The Final Fantasy Legend (1990)</li>
+                    <li> Kirby's Dream Land (1992)</li>
+                </ul>
             </div>
          </main>
-     </body>
-        <!-- This is the footer -->
-        <!-- The footer goes inside the body but not always -->
-        <footer>
+          <footer>
             <hr class="footer">
             CST 336 Internet Programming. 2020&copy; Davis<br/>
             <img src="img/csumblogo.png" alt="csumblogo"/>
-
         </footer>
+     </body>
+        <!-- This is the footer -->
+        <!-- The footer goes inside the body but not always -->
+       
         <!-- closing footer -->
-        
-   
     <!-- closing body -->
 
 </html>

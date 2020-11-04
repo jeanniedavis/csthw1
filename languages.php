@@ -54,15 +54,15 @@ in html
            
             </div>
          </main>
-     </body>
-        <!-- This is the footer -->
-        <!-- The footer goes inside the body but not always -->
-        <footer>
+            <footer>
             <hr class="footer">
             CST 336 Internet Programming. 2020&copy; Davis<br/>
             <img src="img/csumblogo.png" alt="csumblogo"/>
-
         </footer>
+     </body>
+        <!-- This is the footer -->
+        <!-- The footer goes inside the body but not always -->
+     
         <!-- closing footer -->
         
    

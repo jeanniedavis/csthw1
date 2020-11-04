@@ -51,18 +51,16 @@ in html
                     </a>
                 </div>
                 <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+                <figcaption> This is a gif that shows some examples of 8 bit video games</figcaption>
             </figure>
             
          </main>
-     </body>
-        <!-- This is the footer -->
-        <!-- The footer goes inside the body but not always -->
-    <footer>
+        <footer>
             <hr class="footer"/>
-            <figcaption>CST 336 Internet Programming. 2020&copy; Davis<br/> </figcaption>
+            CST 336 Internet Programming. 2020&copy; Davis<br/>
             <img src="img/csumblogo.png" alt="csumblogo"/>
-    </footer>
-        <!-- closing footer -->
-    <!-- closing body -->
+        </footer>
+     </body>
+     
 
 </html>
