@@ -30,7 +30,7 @@ in html
         <nav>
             <a href="index.php">Home</a>
             <a href="history.php">History</a>
-            <a href="languages.php"class="highlighted">Languages</a>
+            <a href="languages.php" class="highlighted">Languages</a>
             <a href="popgames.php">Famous Glitches</a>
             <a href="references.php">References</a>
         </nav>

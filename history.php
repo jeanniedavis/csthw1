@@ -29,7 +29,7 @@ in html
         <hr class="header"/>
         <nav>
             <a href="index.php">Home</a>
-            <a href="history.php"class="highlighted">History</a>
+            <a href="history.php" class="highlighted">History</a>
             <a href="languages.php">Languages</a>
             <a href="popgames.php">Famous Glitches</a>
             <a href="references.php">References</a>

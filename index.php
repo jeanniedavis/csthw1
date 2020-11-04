@@ -28,7 +28,7 @@ in html
         </header>
         <hr class="header"/>
         <nav>
-            <a href="index.php"class="highlighted">Home</a>
+            <a href="index.php" class="highlighted">Home</a>
             <a href="history.php">History</a>
             <a href="languages.php">Languages</a>
            <a href="popgames.php">Famous Glitches</a>
@@ -57,15 +57,12 @@ in html
      </body>
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
-        <footer>
+    <footer>
             <hr class="footer">
             CST 336 Internet Programming. 2020&copy; Davis<br/>
             <img src="img/csumblogo.png" alt="csumblogo"/>
-
-        </footer>
+    </footer>
         <!-- closing footer -->
-        
-   
     <!-- closing body -->
 
 </html>

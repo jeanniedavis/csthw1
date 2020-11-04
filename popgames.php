@@ -31,7 +31,7 @@ in html
             <a href="index.php">Home</a>
             <a href="history.php">History</a>
             <a href="languages.php">Languages</a>
-            <a href="popgames.php"class="highlighted">Famous Glitches</a>
+            <a href="popgames.php" class="highlighted">Famous Glitches</a>
             <a href="references.php">References</a>
         </nav>
         <br/>

@@ -32,7 +32,7 @@ in html
             <a href="history.php">History</a>
             <a href="languages.php">Languages</a>
             <a href="popgames.php">Famous Glitches</a>
-            <a href="references.php"class="highlighted">References</a>
+            <a href="references.php" class="highlighted">References</a>
         </nav>
         <br/>
         <main>
